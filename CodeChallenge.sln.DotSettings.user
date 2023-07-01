@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=28290142_002Dceb8_002D417b_002Da45d_002D34dad02eb2bd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PasswordGeneratorTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::41288A60-867B-4A28-AFC0-7CFE4C7553CD::net6.0::CodeChallenge.Tests.PasswordGeneratorTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=662df7b4_002D842f_002D4107_002Da2b6_002D96afc13a0064/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PasswordGenerationTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::41288A60-867B-4A28-AFC0-7CFE4C7553CD::net6.0::CodeChallenge.Tests.PasswordGeneratorTest.PasswordGenerationTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c8b42794_002D6659_002D4ab2_002D9809_002De8ea2ab17599/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PasswordGeneratorTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::41288A60-867B-4A28-AFC0-7CFE4C7553CD::net6.0::CodeChallenge.Tests.PasswordGeneratorTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41288A60-867B-4A28-AFC0-7CFE4C7553CD::net6.0::CodeChallenge.Tests.PasswordValidatorTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d9ebbc35_002Dca22_002D43ba_002Da18f_002D9e763b7e960f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PasswordGenerationTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::41288A60-867B-4A28-AFC0-7CFE4C7553CD::net6.0::CodeChallenge.Tests.PasswordGeneratorTest.PasswordGenerationTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::41288A60-867B-4A28-AFC0-7CFE4C7553CD::net6.0::CodeChallenge.Tests.PasswordGeneratorTest.PasswordValidityTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
